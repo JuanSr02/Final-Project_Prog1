@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1607311156 source:c:\users\valen\desktop\tp maquina\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingresante.h"
+	"lista_ingresante.h"
+
+1607223533 c:\users\valen\desktop\tp maquina\ingresante.h
+
+1607093428 c:\users\valen\desktop\tp maquina\lista_ingresante.h
+
+1607089590 source:c:\users\juan__000\desktop\universidad\programacion i\proyectos\nueva carpeta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingresante.h"
+	"lista_ingresante.h"
+
+1607016139 c:\users\juan__000\desktop\universidad\programacion i\proyectos\nueva carpeta\ingresante.h
+
+1606946877 c:\users\juan__000\desktop\universidad\programacion i\proyectos\nueva carpeta\lista_ingresante.h
+
+1607976122 source:c:\users\juan__000\desktop\universidad\programacion i\proyectos\tp maquina 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingresante.h"
+	"lista_ingresante.h"
+
+1607913738 c:\users\juan__000\desktop\universidad\programacion i\proyectos\tp maquina 2.0\ingresante.h
+
+1607093428 c:\users\juan__000\desktop\universidad\programacion i\proyectos\tp maquina 2.0\lista_ingresante.h
+
+1607353951 source:c:\users\valen\desktop\aasadsad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingresante.h"
+	"lista_ingresante.h"
+
+1607351675 c:\users\valen\desktop\aasadsad\ingresante.h
+
+1607093428 c:\users\valen\desktop\aasadsad\lista_ingresante.h
+
+1607354631 source:c:\users\valen\desktop\tp maquina 4.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingresante.h"
+	"lista_ingresante.h"
+
+1607351675 c:\users\valen\desktop\tp maquina 4.0\ingresante.h
+
+1607093428 c:\users\valen\desktop\tp maquina 4.0\lista_ingresante.h
+
+1607481998 source:c:\users\valen\desktop\tpmaquina8.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingresante.h"
+	"lista_ingresante.h"
+
+1607351675 c:\users\valen\desktop\tpmaquina8.0\ingresante.h
+
+1607093428 c:\users\valen\desktop\tpmaquina8.0\lista_ingresante.h
+
+1607791354 source:c:\users\valen\desktop\tpmaquina12.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingresante.h"
+	"lista_ingresante.h"
+
+1607351675 c:\users\valen\desktop\tpmaquina12.0\ingresante.h
+
+1607093428 c:\users\valen\desktop\tpmaquina12.0\lista_ingresante.h
+
+1607821127 source:c:\users\valen\desktop\tpmaquina14.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingresante.h"
+	"lista_ingresante.h"
+
+1607351675 c:\users\valen\desktop\tpmaquina14.0\ingresante.h
+
+1607093428 c:\users\valen\desktop\tpmaquina14.0\lista_ingresante.h
+
+1607877572 source:c:\users\valen\desktop\tpmaquina16.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingresante.h"
+	"lista_ingresante.h"
+
+1607351675 c:\users\valen\desktop\tpmaquina16.0\ingresante.h
+
+1607093428 c:\users\valen\desktop\tpmaquina16.0\lista_ingresante.h
+
+1607907180 source:c:\users\valen\desktop\tp maquina 18.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingresante.h"
+	"lista_ingresante.h"
+
+1607907319 c:\users\valen\desktop\tp maquina 18.0\ingresante.h
+
+1607093428 c:\users\valen\desktop\tp maquina 18.0\lista_ingresante.h
+
+1607981515 source:c:\users\valen\desktop\tpmaquina26.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingresante.h"
+	"lista_ingresante.h"
+
+1607913738 c:\users\valen\desktop\tpmaquina26.0\ingresante.h
+
+1607093428 c:\users\valen\desktop\tpmaquina26.0\lista_ingresante.h
+
+1608030905 source:c:\users\valen\desktop\tpmaquina30.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingresante.h"
+	"lista_ingresante.h"
+
+1607913738 c:\users\valen\desktop\tpmaquina30.0\ingresante.h
+
+1607093428 c:\users\valen\desktop\tpmaquina30.0\lista_ingresante.h
+
+1608033321 source:c:\users\juan__000\desktop\universidad\programacion i\proyectos\tpmaquina30.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingresante.h"
+	"lista_ingresante.h"
+
+1607913738 c:\users\juan__000\desktop\universidad\programacion i\proyectos\tpmaquina30.0\ingresante.h
+
+1607093428 c:\users\juan__000\desktop\universidad\programacion i\proyectos\tpmaquina30.0\lista_ingresante.h
+
+1608033321 source:c:\users\juan__000\desktop\universidad\programacion i\proyectos\tpmaquina30.0\tpmaquinafinal_gimenez_sanchez\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingresante.h"
+	"lista_ingresante.h"
+
+1607913738 c:\users\juan__000\desktop\universidad\programacion i\proyectos\tpmaquina30.0\tpmaquinafinal_gimenez_sanchez\ingresante.h
+
+1607093428 c:\users\juan__000\desktop\universidad\programacion i\proyectos\tpmaquina30.0\tpmaquinafinal_gimenez_sanchez\lista_ingresante.h
+
+1608033322 source:c:\users\juan_\desktop\universidad\0) años anteriores\2020\programacion i\proyectos\tpmaquina30.0\tpmaquinafinal_gimenez_sanchez\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingresante.h"
+	"lista_ingresante.h"
+
+1607913740 c:\users\juan_\desktop\universidad\0) años anteriores\2020\programacion i\proyectos\tpmaquina30.0\tpmaquinafinal_gimenez_sanchez\ingresante.h
+
+1607093430 c:\users\juan_\desktop\universidad\0) años anteriores\2020\programacion i\proyectos\tpmaquina30.0\tpmaquinafinal_gimenez_sanchez\lista_ingresante.h
+

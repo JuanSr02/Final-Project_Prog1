@@ -1,0 +1,52 @@
+Ingresante TFA Nro <1>
+Nombre: Juan Manuel
+Apellido: Sanchez Rodriguez
+DNI: 44075067
+Carrera Nro <1>: Ingenieria en Informatica
+Celular de contacto: +542664205131
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ingresante TFA Nro <2>
+Nombre: CELSO RAFAEL
+Apellido: DE LOS SANTOS FERNANDEZ
+DNI: 43840433
+Carrera Nro <1>: Ingenieria en Computacion
+Carrera Nro <2>: Ingenieria en Informatica
+Carrera Nro <3>: Licenciatura en Ciencias de la Computacion
+Celular de contacto: +542664375241
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ingresante TFA Nro <3>
+Nombre: CANDELA LOURDES
+Apellido: PEDERNERA
+DNI: 42914875
+Carrera Nro <1>: Tecnicatura Universitaria en Web
+Celular de contacto: +542625601011
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ingresante TFA Nro <4>
+Nombre: Francisco
+Apellido: Leon Cordoba
+DNI: 43953752
+Carrera Nro <1>: Ingenieria en Minas
+Carrera Nro <2>: Licenciatura en Ciencias de la Computacion
+Carrera Nro <3>: Licenciatura en Fisica
+Carrera Nro <4>: Profesorado en Ciencias de la Computacion
+Carrera Nro <5>: Tecnicatura Universitaria en Energias Renovables
+Celular de contacto: +542664572720
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ingresante TFA Nro <5>
+Nombre: SANTIAGO
+Apellido: FIGUN
+DNI: 43013881
+Carrera Nro <1>: Ingenieria en Computacion
+Carrera Nro <2>: Ingenieria en Informatica
+Carrera Nro <3>: Licenciatura en Fisica
+Carrera Nro <4>: Licenciatura en Ciencias de la Computacion
+Celular de contacto: +542664877850
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ingresante TFA Nro <6>
+Nombre: BIANCA ZOE
+Apellido: CALDERONI ALVAREZ
+DNI: 43954353
+Carrera Nro <1>: Ingenieria en Computacion
+Carrera Nro <2>: Ingenieria en Informatica
+Celular de contacto: +542665032731
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
